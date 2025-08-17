@@ -1,0 +1,26 @@
+[
+  {"id": "EXT1", "trait": "EXT", "text": "I am the life of the party."},
+  {"id": "EXT2", "trait": "EXT", "text": "I talk to a lot of different people at parties."},
+  {"id": "EXT3", "trait": "EXT", "text": "I feel comfortable around people."},
+  {"id": "EXT4", "trait": "EXT", "text": "I start conversations."},
+
+  {"id": "NEU1", "trait": "NEU", "text": "I get stressed out easily."},
+  {"id": "NEU2", "trait": "NEU", "text": "I worry about things."},
+  {"id": "NEU3", "trait": "NEU", "text": "I get irritated easily."},
+  {"id": "NEU4", "trait": "NEU", "text": "I often feel blue."},
+
+  {"id": "AGR1", "trait": "AGR", "text": "I am interested in people."},
+  {"id": "AGR2", "trait": "AGR", "text": "I sympathize with others’ feelings."},
+  {"id": "AGR3", "trait": "AGR", "text": "I take time out for others."},
+  {"id": "AGR4", "trait": "AGR", "text": "I make people feel at ease."},
+
+  {"id": "CON1", "trait": "CON", "text": "I am always prepared."},
+  {"id": "CON2", "trait": "CON", "text": "I pay attention to details."},
+  {"id": "CON3", "trait": "CON", "text": "I get chores done right away."},
+  {"id": "CON4", "trait": "CON", "text": "I like order."},
+
+  {"id": "OPN1", "trait": "OPN", "text": "I have a rich vocabulary."},
+  {"id": "OPN2", "trait": "OPN", "text": "I have a vivid imagination."},
+  {"id": "OPN3", "trait": "OPN", "text": "I have excellent ideas."},
+  {"id": "OPN4", "trait": "OPN", "text": "I am quick to understand things."}
+]
